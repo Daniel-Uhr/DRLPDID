@@ -1,2 +1,0 @@
-# DRLPDID
-Double Robust LPDiD
